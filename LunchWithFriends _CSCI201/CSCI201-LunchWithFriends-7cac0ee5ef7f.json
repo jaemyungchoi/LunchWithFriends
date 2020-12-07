@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "csci201-lunchwithfriends",
+  "private_key_id": "7cac0ee5ef7fe3c0a35722d4c87230fe90f0fef5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDsEWzPBkY8A4d8\nag+ggCPgDdKHmAj/zuRUu9VM1fnK+3I1HiWhV0BeeTNDTouoq6yMjhcZ9x80LMoH\ncsg7QFcwtGFwCCN9mK/zp/WMLw1CZPqVJ3Umt0oggE5Qw/Q/TPUWrKYp1c0LA1GX\nMKO+Yho3ZlItshkgJXS/PEcvQ6VkJj/OfkPy0Q0YIm2LZtPdFCUCK79zsfODbckE\nau+xzUIuCBHWTR3U0Ry5IxmfjVJ+lQgIBemKeFjxy0in2HGuIOTniYcO/MRpdMsP\nDsNRvxur0ldvcluiNwj3LlbAnRBs1EIwVc+Xom+I3B6gu8BS+OgLf5YXJO/fU42x\nCEpNdaJXAgMBAAECggEAKKYze06UR39AFD9bI4MNKmaW6vxWCF6C2MhjSVDLK5Wy\nq8zeI/MXRW1PU3ax+8Bb/PP2rGTuPZi8zR2JtxI0MVHOOXFdUyI4ohc45AOyH82t\njIN328vR+ti9I5EqfL/usBHYpvmGzi+rHAKnH4BbDVEUM4QoaW2ptchWZaAbWawb\ns7ukFyytSEHDo4R4ah59scc/Sa+RLMGw4tzS0ydZydTQWrIkgMJrr/OQJt6R06y2\norhMOwiwJrMF7luKG7nkK01yRNifQ0spM/rwMNuAhloswa6H0R3/UlHkkvmUsN0b\nRsN6Fjja0KfoWWQz1VstaAyJjHD4BIFNh9GRJmlK6QKBgQD/3EWefqxxySZMuxkN\nQj5iyWm4M228xAO1JStsvMo19DqDxs5uN6ouR6ejSJSH8DoOWW1oFLL5woOfBlcz\n2jeUsblXYzER9/ziWH7N4zIeW3UV7Uk8pZFpxrORziWJiU7VbVLjZmO833CtLn/9\nF8Yw48DtjgZpkASmWtPLIHfdWwKBgQDsMmOpOTxBuh/+2Q7H+akNAgsG71o4sPeS\na0QxFmZ0ZB6U2r2zSoMuXHKXEHkmVX6bPA+OvvRe8vTkvUK2DVmJzY/Q4vfRHYBt\nZPYVJmtiZsiqs7K3gYovjKTOl1xKMkPuHU2grk78IHoNWnJzdUtJ5jWJaY19OZ02\nHnFzuGcztQKBgDiv3NzYw+wR3OJzMYG2g4vvg/TDsDR6WTfxHEXjLgn2KmC301So\nEJRgW8vZcM8Nck9rkMnWjDC539+D0B404suW9LFf0KdigizD3pRPGfOP38kT4X4G\nUMlWtMJBIh/uxACVUCABt2dJOfWkr8arVcXPMBdxuAn7Voxk4zfF4cixAoGAT3Yk\nUSoQO4yCdxpO/rffR6EIVKzxjWD76SZtKpZ+oWmNYEa2yzqmJ1Kyul+wYlUg4tix\n4zQawla6TLnfV5/mH5Yoa/3voUprimIM59ClD9XEbKlH1rSd6KFIULhbNBr0/4ac\nNxJtQCUs6pEjL/Sl/5aTLEd2ckqPuUVEpcnD7oECgYEA9sCqBnU+3goVXBxwYWE3\n5gaLMr9FycMf3gyMOOAjgbA5TGE3vivft2j4JqJuTS7ZNFCCI8y/O66sjNp1D1Gp\nXxP5v/MpGM0ENSTFR619Z0hPKF2CzQesG/bJrPoRk+MXjtL0l6Wu2p+bCsRqFZJe\nvKDXQU4xV2Lp7OUeLT/p2BI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "amirhega@csci201-lunchwithfriends.iam.gserviceaccount.com",
+  "client_id": "115220593480508841354",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amirhega%40csci201-lunchwithfriends.iam.gserviceaccount.com"
+}
